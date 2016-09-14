@@ -57,8 +57,6 @@ test.rb:1:1:
     - Global Interpretor Lock (またはGVL Giant VM Lockとも)
 
 
-キャッシュが効いてる状態でもxxx秒
-
 ---
 
 #  Solution
